@@ -131,14 +131,17 @@ https://github.com/psychosophonis/truffledapps/blob/master/wishingWellTutorial.m
 
 ## Week Eight:
 
-- Experiments with making things happen.
+- Up
 - Switching on a LED using a smart contract.
 - Continued dApp Dev.
 
 ## Week Nine:
 
-- Finalise Dapp Dev and sum up what we’ve learnt about the Blockchain.
+- Today we can continue the chat session - questions and ideas.
+- We can also look to one of the technical tutorials depending on our level of interest and technical know how.
+- The [Greeter example](https://github.com/psychosophonis/truffledapps/archive/master.zip) (deploying a contract in truffle) is still waiting for you if you didn't get there.
+- [SimplestETH](https://github.com/psychosophonis/simplestEth/archive/master.zip) demonstrates basic use of filters, javascript API, and contracts to retunr simple information form your local account, the blockchain and a pre-deployed contract 
+- [Wishwell](https://github.com/psychosophonis/wishwellweb/archive/master.zip) demonstrates a simplified interface for the BouncingWishingWell contract (already deployed) that demonstartes the use of 'metamask' as a third party wallet/web3 provider - this makes things wallet and node interactions much simpler.
 
-## Week Ten:
 
-- dApp Launch Party and discussion : Where to from here?
+
