@@ -131,7 +131,10 @@ https://github.com/psychosophonis/truffledapps/blob/master/wishingWellTutorial.m
 
 ## Week Eight:
 
- -This week we gave into the demans for an epic think fest regarding the nature of crypto exchanges and whether this means the whole decentralised architecture thing is a myth.
+ - Discussion on Power Ledger's ICO
+   - Identification of Token architecture as opposed to the built-in Ether
+   - Research on how Token trading works.
+   - 
 
 ## Week Nine:
 
