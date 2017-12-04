@@ -131,17 +131,15 @@ https://github.com/psychosophonis/truffledapps/blob/master/wishingWellTutorial.m
 
 ## Week Eight:
 
-- Up
-- Switching on a LED using a smart contract.
-- Continued dApp Dev.
+ -This week we gave into the demans for an epic think fest regarding the nature of crypto exchanges and whether this means the whole decentralised architecture thing is a myth.
 
 ## Week Nine:
 
 - Today we can continue the chat session - questions and ideas.
 - We can also look to one of the technical tutorials depending on our level of interest and technical know how.
-- The [Greeter example](https://github.com/psychosophonis/truffledapps/archive/master.zip) (deploying a contract in truffle) is still waiting for you if you didn't get there.
-- [SimplestETH](https://github.com/psychosophonis/simplestEth/archive/master.zip) demonstrates basic use of filters, javascript API, and contracts to retunr simple information form your local account, the blockchain and a pre-deployed contract 
-- [Wishwell](https://github.com/psychosophonis/wishwellweb/archive/master.zip) demonstrates a simplified interface for the BouncingWishingWell contract (already deployed) that demonstartes the use of 'metamask' as a third party wallet/web3 provider - this makes things wallet and node interactions much simpler.
+- The [Greeter example](https://github.com/psychosophonis/truffledapps/blob/master/README.md) (deploying a contract in truffle) is still waiting for you if you didn't get there.
+- [SimplestETH](https://github.com/psychosophonis/simplestEth/) demonstrates basic use of filters, javascript API, and contracts to retunr simple information form your local account, the blockchain and a pre-deployed contract 
+- [Wishwell](https://github.com/psychosophonis/wishwellweb/) demonstrates a simplified interface for the BouncingWishingWell contract (already deployed) that demonstartes the use of 'metamask' as a third party wallet/web3 provider - this makes things wallet and node interactions much simpler.
 
 
 
